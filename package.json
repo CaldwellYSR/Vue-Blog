@@ -1,0 +1,19 @@
+{
+  "name": "vue-blog",
+  "version": "1.0.0",
+  "description": "A blog where posts are editable right where they exist on the page.",
+  "main": "build/app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CaldwellYSR/Vue-Blog.git"
+  },
+  "author": "Matthew Caldwell <caldwellysr@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CaldwellYSR/Vue-Blog/issues"
+  },
+  "homepage": "https://github.com/CaldwellYSR/Vue-Blog#readme"
+}
